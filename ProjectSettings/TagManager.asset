@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Object
+  - PlayerAttack
+  - BossAttack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 948777151
+    locked: 0
+  - name: Midground
+    uniqueID: 2730074535
+    locked: 0
+  - name: Objects
+    uniqueID: 2933913065
+    locked: 0
+  - name: Player
+    uniqueID: 3986332043
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Door
+    uniqueID: 1903300163
+    locked: 0
+  - name: FOG
+    uniqueID: 3006785663
+    locked: 0
